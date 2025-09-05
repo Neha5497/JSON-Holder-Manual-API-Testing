@@ -1,0 +1,21 @@
+{
+  "id": "jsonplaceholder-env",
+  "name": "JSONPlaceholder Environment",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://jsonplaceholder.typicode.com",
+      "enabled": true
+    },
+    {
+      "key": "postId",
+      "value": "1",
+      "enabled": true
+    },
+    {
+      "key": "userId",
+      "value": "1",
+      "enabled": true
+    }
+  ]
+}
